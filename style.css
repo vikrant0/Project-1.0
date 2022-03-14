@@ -1,0 +1,16 @@
+.contain-login {
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  margin-top: ;
+  margin: 236px 10px;
+}
+/*input {
+	padding: 5px;
+	border-radius: 10px;
+	border-width: 1px;
+}*/
+input[type="submit"] {
+  background-color: #ffa500;
+}
