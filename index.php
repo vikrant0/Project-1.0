@@ -28,7 +28,7 @@
 						</div>
 					
 						<div class="button" style="text-align: center;margin: 25px 0px;">
-                                <input  class="button-submit btn btn-primary " type="submit" name="submit" style="background: rgb(177,4,0) !important; border:none !important; color: white !important;" onclick="login();">
+                                <input  class="button-submit btn btn-primary " type="submit" name="submit" style="background: rgb(177,4,0)  color: white !important;" onclick="login();">
                             </div>
 					</form>
 				<!-- </div> -->
